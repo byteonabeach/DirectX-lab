@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DirectX-lab/DirectX-lab.vcxproj" />
+  <Project Path="DirectX-lab/DirectX-lab.vcxproj" Id="8c883eab-871c-4598-a354-f7abf334d985" />
 </Solution>
